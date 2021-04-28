@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**midnight4ever/midnight4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cdefga/cdefga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 ML Practitioner
+🌱 I like things related to computer and music.
+📫 How to reach me: hyouka266@gmail.com
