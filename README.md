@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-🌱 I like things related to computer and music.
+- 🤔 I don't mind working hard, just don't like working hard on things I don't like.
 
-🤔 I don't mind working hard, just don't like working hard on things I don't like.
+-->
+🌱 I like music.
+
 
 📫 How to reach me: hyouka266@gmail.com
