@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤔 I don't mind working hard, just don't like working hard on things I don't like.
+🌱 I like music.
+📫 How to reach me: hyouka266@gmail.com
 
 -->
-🌱 I like music.
 
 
-📫 How to reach me: hyouka266@gmail.com
