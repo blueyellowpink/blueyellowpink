@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![my stats](https://github-readme-stats.vercel.app/api?username=trasua&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://github-readme-stats.vercel.app/api?username=blueyellowpink&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Tech
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
