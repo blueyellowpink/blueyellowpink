@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![my stats](https://gitstats.trasua.dev/api?username=blueyellowpink&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://gitstats.trasua.dev/api?username=macroexpansion&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Tech
 ![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
